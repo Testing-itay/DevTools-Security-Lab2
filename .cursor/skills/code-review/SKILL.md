@@ -2,6 +2,8 @@
 name: Code Review
 description: Review code for bugs, security issues, and best practices.
 allowed-tools: Read, Grep, Glob
+version: 1.0.0
+License: MIT
 ---
 
 # Code Review Skill
